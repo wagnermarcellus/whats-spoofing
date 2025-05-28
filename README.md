@@ -17,6 +17,13 @@ $ go build
 ```bash
 $ ./whats-spoofing
 ```
+
+## Give Permission
+
+```bash
+$ chmod +x whats-spoofing
+```
+
 ## Desinstalation
 
 ```bash
