@@ -5,7 +5,7 @@ Reply spoofer for WhatsApp messages.
 ## Installation
 
 ```bash
-$ git clone github.com/wagnermarcellus/whats-spoofing.git
+$ git clone git@github.com:wagnermarcellus/whats-spoofing.git
 $ cd whats-spoofing
 $ mkdir -p data && mkdir -p db && mkdir -p history
 $ go mod download
