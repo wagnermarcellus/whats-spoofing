@@ -17,6 +17,11 @@ $ go build
 ```bash
 $ ./whats-spoofing
 ```
+## Desinstalation
+
+```bash
+$ rm -rf whats-spoofing
+```
 
 Once you see a QR code on the terminal, scan it with your WhatsApp app just like when you login on WhatsApp web. \
 This is necessary to get the session token to send messages. \
