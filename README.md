@@ -11,6 +11,11 @@ $ mkdir -p data && mkdir -p db && mkdir -p history
 $ go mod download
 $ go build
 ```
+## Give Permission
+
+```bash
+$ chmod +x whats-spoofing
+```
 
 ## Usage
 
@@ -18,11 +23,7 @@ $ go build
 $ ./whats-spoofing
 ```
 
-## Give Permission
 
-```bash
-$ chmod +x whats-spoofing
-```
 
 ## Desinstalation
 
