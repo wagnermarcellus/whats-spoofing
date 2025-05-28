@@ -31,6 +31,15 @@ $ ./whats-spoofing
 $ rm -rf whats-spoofing
 ```
 
+## For Update
+
+```bash
+$ go get -u
+$ go mod tidy
+$ go build
+
+```
+
 Once you see a QR code on the terminal, scan it with your WhatsApp app just like when you login on WhatsApp web. \
 This is necessary to get the session token to send messages. \
 After that, when you see on your terminal `Listening on localhost:8080`, open a browser tab and go to `http://localhost:8080`.
